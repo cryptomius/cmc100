@@ -18,3 +18,12 @@ To use:
 Keep in mind some exchanges may use different abbreviations than coinmarketcap.com (ie DSH vs DASH) so this is really just a quick way to get you on your way.
 
 Check out my other repositories for exchange-specific trading pair watchlist creation scripts.
+
+Like this? Feel free to send me a tip! :-)
+BTC: 1GdpCvpiK6e5N5u89Dq21jJcqfzJ48zAy2
+ETH & ERC20: 0x13098ad7ac788e0bcd3ed38f04003c0df90ebbc9
+ETC: 0xb0b4efe2ad6d0ddc0d8bd030525e32580e85f0cd
+LTC: LdEu42hZUUSxxZboXGdes1snQfwrR7VWt3
+DASH: XnU3c743iqpros4YQgfsn9Nxq6T9bguH8e
+ZEC: t1gLKiEZP9RyKtHthvYi2Vo97fvJXL7YcMd
+BCH: 1H9dSN6nsoGDCG4GvPgCWRjP765kqJSXYN
