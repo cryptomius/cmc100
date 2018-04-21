@@ -20,6 +20,9 @@ Keep in mind some exchanges may use different abbreviations than coinmarketcap.c
 
 Check out my other repositories for exchange-specific trading pair watchlist creation scripts.
 
+[More Crypto Tools by @cryptomius](https://github.com/cryptomius/Cryptomius-Crypto-Tools-Overview)
+
+---
 *Like this? Feel free to send me a tip! :-)*
 
 **BTC**: 1GdpCvpiK6e5N5u89Dq21jJcqfzJ48zAy2  
