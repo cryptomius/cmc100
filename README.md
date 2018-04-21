@@ -1,5 +1,5 @@
 ## Coin Market Cap - TradingView watchlist creator
-The script below automatically extracts the top 50 (or 100) matched against your desired pair(s). You can then import this as a watchlist into TradingView.com.
+This [script](https://github.com/cryptomius/cmc100/blob/master/coin-market-cap-tradingview-watchlist.js) automatically extracts the top 50 (or 100) matched against your desired pair(s). You can then import this as a watchlist into TradingView.com.
 
 [Setup process video](https://www.dropbox.com/s/1brs28ywpe2sm6t/CMC%20scraper%20setup.mov?dl=1) or read the instructions below:
 
