@@ -5,7 +5,7 @@ This [script](https://github.com/cryptomius/cmc100/blob/master/coin-market-cap-t
 
 Setup:
 
-1. The code needs to be converted into a bookmarklet so you can access it from your browser bookmarks. 
+1. [The code](https://raw.githubusercontent.com/cryptomius/cmc100/master/coin-market-cap-tradingview-watchlist.js) needs to be converted into a bookmarklet so you can access it from your browser bookmarks. 
 Go to [mrcoles.com/bookmarklet](https://mrcoles.com/bookmarklet/), paste the code where it says ‘Enter your javascript code here:’, click ‘Convert to bookmarklet’. Copy the code from where it says ‘and here is the code:’.
 2. Go to your web browser Bookmark Manager and add a new bookmark. Paste the code you just copied into the ‘URL’ field, and name the bookmark (I’ve called it CMC 100 Scraper’). I’d recommend placing the bookmark on your ‘Bookmarks Bar’ for easy access.
 
